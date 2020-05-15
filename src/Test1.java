@@ -6,5 +6,7 @@ public class Test1 {
 
         System.out.println("在1中的第一次commit");
         System.out.println("在1中的第二次commit");
+
+        System.out.println("1号分支创建");
     }
 }
