@@ -15,5 +15,7 @@ public class Test1 {
         System.out.println("尝试使用add，但是不commit，然后check out！");
 
         System.out.println("add并commit之后的stash测试");
+
+        System.out.println("1号分支上，master的更新！");
     }
 }
